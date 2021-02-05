@@ -1,7 +1,7 @@
 # Snake
 ## Всем известная игра змейка
 
-![Внешний вид сайта](https://i.ibb.co/KWz8CPs/SNAKE-Google-Chrome-2021-02-05-14-01-33-online-video-cutter-com.gif "Геймплей))")
+![Внешний вид сайта](https://i.ibb.co/8r50MbW/SNAKE-Google-Chrome-2021-02-05-14-01-33-online-video-cutter-com.gif "Геймплей))")
 
 ____
 
